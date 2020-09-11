@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="tv_iniciosesion">INICIO DE SESION</string>
+    <string name="tv_correo">Correo Electronico</string>
+    <string name="tv_clave">Password</string>
+    <string name="et_correo">Ingrese Correo</string>
+</resources>
