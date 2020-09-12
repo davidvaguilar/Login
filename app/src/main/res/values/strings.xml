@@ -3,5 +3,12 @@
     <string name="tv_iniciosesion">INICIO DE SESION</string>
     <string name="tv_correo">Correo Electronico</string>
     <string name="tv_clave">Password</string>
+    <string name="tv_confirmar">Confirmar Password</string>
     <string name="et_correo">Ingrese Correo</string>
+    <string name="bt_inicio">Iniciar Sesión</string>
+    <string name="tv_registrate">¿No tienes cuenta de usuario?</string>
+    <string name="tv_registrar">FORMULARIO DE REGISTRO</string>
+    <string name="tv_nombre">Nombre Completo</string>
+    <string name="bt_registrar">Registrar</string>
+    <string name="tv_login">Volver al Login</string>
 </resources>
